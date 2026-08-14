@@ -1,0 +1,26 @@
+{
+  "name": "huntify-jobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galaviv15/Huntify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Galaviv15/Huntify/issues"
+  },
+  "homepage": "https://github.com/Galaviv15/Huntify#readme",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "mongoose": "^9.9.2",
+    "playwright": "^1.62.1"
+  }
+}
